@@ -1,0 +1,7 @@
+import os
+print "Getting current working directory for you:", os.getcwd()
+a=2
+if a==2:
+    print "All izz well...!"
+else:
+    print "something went wrong...!"
